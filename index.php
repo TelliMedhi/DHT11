@@ -9,6 +9,7 @@ echo "hello word";
 </head>
 <body>
 	<h1>Temperature</h1>
+	<img src="img/thermometer.jpg">
 
 </body>
 </html>
